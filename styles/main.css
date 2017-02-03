@@ -1,0 +1,18 @@
+/* font-family: 'Space Mono', monospace; */
+
+body {
+	font-family: 'Space Mono', monospace;
+}
+
+h1 {
+	text-align: center;
+}
+
+.svg-container {
+	display: flex;
+	justify-content: center;
+}
+
+
+
+
