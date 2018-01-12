@@ -1286,7 +1286,7 @@ img {
   left: 20px;
   bottom: 0px;
   width: 55%;
-  padding-top: 55%;
+  height: 145%;
 }
 
 .face-gray {
@@ -1296,8 +1296,8 @@ img {
   width: 100%;
   height: 100%;
   background-image: url('../images/selfportrait-bw.png');
-  background-position: 0px 0px;
-  background-size: contain;
+  background-position: 50% 100%;
+  background-size: 100%;
   background-repeat: no-repeat;
 }
 
@@ -1763,7 +1763,6 @@ img {
   }
   .face-holder {
     width: 59%;
-    padding-top: 59%;
   }
   .face-box-top {
     height: 5px;
@@ -2295,7 +2294,7 @@ img {
   }
   .face-holder {
     width: 80%;
-    padding-top: 80%;
+    height: 155%;
   }
   .face-box-top {
     height: 4px;
@@ -2463,6 +2462,9 @@ img {
   }
   .project-dots {
     top: -4px;
+  }
+  .face-holder {
+    height: 75vw;
   }
   .blurb-rightborder-container {
     height: 120%;
